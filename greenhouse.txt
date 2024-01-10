@@ -1,0 +1,1 @@
+{"minHumidity":20,"maxHumidity":100}
