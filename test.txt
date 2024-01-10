@@ -1,1 +1,1 @@
-{"minHumidity":30,"maxHumidity":70}
+{"minHumidity":50,"maxHumidity":70}
