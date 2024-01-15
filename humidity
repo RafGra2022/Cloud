@@ -1,1 +1,1 @@
-{"minHumidity":10,"maxHumidity":100}
+{"type":"humidity","type":"humidity","minHumidity":10,"maxHumidity":40}
