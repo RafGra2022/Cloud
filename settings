@@ -1,1 +1,1 @@
-{"type":"settings","auto":false,"voltage":false,"minHumidity":70.0,"maxHumidity":85.0,"minTemperature":8}
+{"type":"settings","auto":false,"voltage":true,"minHumidity":70.0,"maxHumidity":85.0,"minTemperature":8}
